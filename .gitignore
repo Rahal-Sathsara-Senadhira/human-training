@@ -1,0 +1,42 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Rider / VS / VSCode
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity auto-generated
+*.apk
+*.aab
+*.unitypackage
+
+# If you don’t want to upload big art files:
+Assets/**/Animations/**/*.fbx
+Assets/**/Characters/**/*.fbx
+Assets/**/*.psd
+Assets/**/*.mp4
+Assets/**/*.wav
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.tga
+Assets/**/*.exr
